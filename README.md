@@ -1,4 +1,4 @@
-# zk-notes
+# Index
 
 * Some notes about thoughts about things that I interested with.
 * Written in [zk](https://github.com/zk-org/zk) and rendered with [emanote](https://emanote.srid.ca/)
